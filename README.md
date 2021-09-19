@@ -5,8 +5,13 @@ www.nationalpublocschool.in
 * Website hit upto 1300+ views and cherished by teachers, seniors and juniors alike.
 * Gave world as gift to school for Batch of 2020 for students to experience the school's exterior and interiors virtually while missing out on online classes.
 * Included a in-game Treasure Hunt to explore unfrequented parts and relive memories of school life.
+
 <!-- ![alt text](https://user-images.githubusercontent.com/72421177/133946561-59bd24c9-c0ad-45ef-a06f-954214eafb6d.png) remove -->
-!![alt text](https://user-images.githubusercontent.com/72421177/133946578-432c5e9b-e4d3-40a9-af3c-a6101eb5e352.png)
+<!-- <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p> -->
+![alt text](https://user-images.githubusercontent.com/72421177/133946578-432c5e9b-e4d3-40a9-af3c-a6101eb5e352.png)
 ![alt text](https://user-images.githubusercontent.com/72421177/133946589-d36bfa17-e0b6-4552-bc1f-1121e931a85d.png)
 ![alt text](https://user-images.githubusercontent.com/72421177/133946597-5fe34ae5-1bf5-44f0-8a56-c568886a1dca.png)
 ![Screenshot (289)](https://user-images.githubusercontent.com/72421177/133946603-223125a3-0e5b-4c9e-b8dd-c9bebde94756.png)
